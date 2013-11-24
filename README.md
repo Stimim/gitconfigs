@@ -1,9 +1,8 @@
-gitconfigs
-==========
+#gitconfigs
 
 My gitconfigs
 
-#Install
+##Install
 ```
 bash setup.sh
 ```
