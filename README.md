@@ -4,5 +4,7 @@ My gitconfigs
 
 ##Install
 ```
-bash setup.sh
+$ git clone https://github.com/Stimim/gitconfigs.git .gitconfigs
+$ cd ~/.gitconfigs
+$ bash setup.sh
 ```
