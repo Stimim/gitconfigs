@@ -49,3 +49,5 @@
     sed 's/alias\\.\\([^=]*\\)=\\(.*\\)/\\1\\\t => \\2/'|sort
 
 # vim:set ft=gitconfig:
+[push]
+	default = simple
