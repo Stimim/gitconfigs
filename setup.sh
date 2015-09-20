@@ -2,4 +2,4 @@
 
 PWD=`pwd`
 
-ln -sf ~/.gitconfig $PWD/gitconfig
+ln -sf $PWD/gitconfig ~/.gitconfig
